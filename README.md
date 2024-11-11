@@ -1,1 +1,1 @@
-![Bertin projection](https://www.visionscarto.net/local/cache-vignettes/L1376xH930/visionscarto-ber-8f6c5fa1-d6420-d70ef.png?1707733609)
+[![Bertin projection](https://www.visionscarto.net/local/cache-vignettes/L1132xH482/arton465-90d84.jpg?1690206411)](https://www.visionscarto.net/bertin-projection-1953)
